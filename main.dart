@@ -12,24 +12,6 @@ class MyApp extends StatefulWidget {
   }
 }
 
-// List<String> title = [
-//   "6 Minute Grammer",
-//   "6 Minute Vocabulary",
-//   "6 Minute Vocabulary",
-//   "6 Minute English",
-//   "6 Minute English",
-//   "6 Minute English",
-// ];
-
-// List<String> subtitle = [
-//   "Future perfect continous",
-//   "Academic Vocabulary",
-//   "Synonyms",
-//   "The future of food",
-//   "Crytocurrencies",
-//   "Visual Programming"
-// ];
-
 class MyAppState extends State<MyApp> {
   int idx = 0; //index yang aktif
 
